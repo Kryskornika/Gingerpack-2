@@ -1,0 +1,6 @@
+{
+    "parent": "item/base_19x",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    }
+}
