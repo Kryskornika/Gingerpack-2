@@ -1,0 +1,6 @@
+{
+    "parent": "item/base_17x",
+    "textures": {
+        "layer0": "item/iron_sword"
+    }
+}
